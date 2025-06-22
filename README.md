@@ -15,3 +15,18 @@ To set up the environment, please install dependencies using the `requirements.t
 
 ```bash
 pip install -r requirements.txt
+
+If you use this repository or would like to refer to the paper, please use the following:
+
+```bash
+@ARTICLE{Ning2024adversarial, 
+  author={Zhu, Ning and Wang, Jing and Zhang, Ying and Wang, Huan and Han, Te},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={An Adversarial Training Framework Based on Unsupervised Feature Reconstruction Constraints for Crystalline Silicon Solar Cells Anomaly Detection}, 
+  year={2024},
+  volume={73},
+  number={},
+  pages={1-13},
+  keywords={Photovoltaic cells;Training;Feature extraction;Image reconstruction;Silicon;Anomaly detection;Inspection;Anomaly detection;electroluminescence (EL) imaging;generative adversarial networks (GANs);unsupervised learning},
+  doi={10.1109/TIM.2024.3462989}
+}
