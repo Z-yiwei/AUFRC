@@ -7,10 +7,6 @@ by *Ning Zhu, Jing Wang, Ying Zhang, Huan Wang, and Te Han*
 Published in **IEEE Transactions on Instrumentation and Measurement**, 2024.
 
 <p align="center">
-  <img src="figure1.png" width="800">
-</p>
-
-<p align="center">
   <img src="figure2.png" width="800">
 </p>
 
