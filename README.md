@@ -15,6 +15,7 @@ To set up the environment, please install dependencies using the `requirements.t
 
 ```bash
 pip install -r requirements.txt
+```
 
 If you use this repository or would like to refer to the paper, please use the following:
 
@@ -30,3 +31,4 @@ If you use this repository or would like to refer to the paper, please use the f
   keywords={Photovoltaic cells;Training;Feature extraction;Image reconstruction;Silicon;Anomaly detection;Inspection;Anomaly detection;electroluminescence (EL) imaging;generative adversarial networks (GANs);unsupervised learning},
   doi={10.1109/TIM.2024.3462989}
 }
+```
