@@ -6,6 +6,14 @@ This repository provides the official implementation of the IEEE TIM paper:
 by *Ning Zhu, Jing Wang, Ying Zhang, Huan Wang, and Te Han*  
 Published in **IEEE Transactions on Instrumentation and Measurement**, 2024.
 
+<p align="center">
+  <img src="figure1.png" width="800">
+</p>
+
+<p align="center">
+  <img src="figure2.png" width="800">
+</p>
+
 Key innovations include:
 - ✨ **Dual-space feature reconstruction loss** to enforce both visual fidelity and representational coherence
 - 📐 **GCT (Gaussian Context Transformer)** blocks for enhanced long-range dependency modeling
