@@ -32,7 +32,6 @@ If you use this repository or would like to refer to the paper, please use the f
   volume={73},
   number={},
   pages={1-13},
-  keywords={Photovoltaic cells;Training;Feature extraction;Image reconstruction;Silicon;Anomaly detection;Inspection;Anomaly detection;electroluminescence (EL) imaging;generative adversarial networks (GANs);unsupervised learning},
   doi={10.1109/TIM.2024.3462989}
 }
 ```
