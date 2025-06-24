@@ -24,7 +24,7 @@ pip install -r requirements.txt
 If you use this repository or would like to refer to the paper, please use the following:
 
 ```bash
-@ARTICLE{Ning2024adversarial, 
+@ARTICLE{Zhu2024adversarial, 
   author={Zhu, Ning and Wang, Jing and Zhang, Ying and Wang, Huan and Han, Te},
   journal={IEEE Transactions on Instrumentation and Measurement}, 
   title={An Adversarial Training Framework Based on Unsupervised Feature Reconstruction Constraints for Crystalline Silicon Solar Cells Anomaly Detection}, 
